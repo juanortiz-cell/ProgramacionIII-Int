@@ -1,0 +1,86 @@
+[
+  {
+    "feature_id": "vec_001",
+    "model_name": "bert_base_multilingual_v1",
+    "values": [0.1204, -0.3401, 0.5612, 0.0891, -0.2215, 0.4319, 0.1102, -0.0543],
+    "drift_score": 0.12,
+    "timestamp": "2026-10-01T08:00:00+00:00"
+  },
+  {
+    "feature_id": "vec_002",
+    "model_name": "bert_base_multilingual_v1",
+    "values": [0.1189, -0.3310, 0.5540, 0.0920, -0.2190, 0.4280, 0.1095, -0.0510],
+    "drift_score": 0.08,
+    "timestamp": "2026-10-01T08:05:00+00:00"
+  },
+  {
+    "feature_id": "vec_003",
+    "model_name": "resnet50_vision_v2",
+    "values": [0.4510, 0.1290, -0.6712, 0.3345, 0.2109, -0.1180, 0.0451, 0.7823],
+    "drift_score": 0.24,
+    "timestamp": "2026-10-01T08:10:00+00:00"
+  },
+  {
+    "feature_id": "vec_004",
+    "model_name": "resnet50_vision_v2",
+    "values": [0.8920, -0.7410, 0.9102, -0.6120, 0.7741, -0.8312, 0.6410, -0.5290],
+    "drift_score": 0.78,
+    "timestamp": "2026-10-01T08:15:00+00:00"
+  },
+  {
+    "feature_id": "vec_005",
+    "model_name": "whisper_audio_encoder_v3",
+    "values": [-0.1050, 0.2040, 0.3120, -0.4150, 0.1980, 0.0760, -0.2890, 0.3410],
+    "drift_score": 0.35,
+    "timestamp": "2026-10-01T08:20:00+00:00"
+  },
+  {
+    "feature_id": "vec_006",
+    "model_name": "whisper_audio_encoder_v3",
+    "values": [-0.9120, 0.8840, -0.7650, 0.9310, -0.8110, 0.7450, -0.6920, 0.8530],
+    "drift_score": 0.91,
+    "timestamp": "2026-10-01T08:25:00+00:00"
+  },
+  {
+    "feature_id": "vec_007",
+    "model_name": "bert_base_multilingual_v1",
+    "values": [0.1301, -0.3102, 0.5204, 0.1045, -0.2011, 0.4105, 0.1190, -0.0621],
+    "drift_score": 0.15,
+    "timestamp": "2026-10-01T08:30:00+00:00"
+  },
+  {
+    "feature_id": "vec_008",
+    "model_name": "clip_multimodal_v1",
+    "values": [0.3312, 0.2890, -0.1920, 0.4102, -0.3315, 0.2780, 0.1840, -0.2190],
+    "drift_score": 0.48,
+    "timestamp": "2026-10-01T08:35:00+00:00"
+  },
+  {
+    "feature_id": "vec_009",
+    "model_name": "clip_multimodal_v1",
+    "values": [0.7120, -0.6430, 0.6890, -0.5910, 0.6210, -0.7010, 0.5880, -0.6340],
+    "drift_score": 0.72,
+    "timestamp": "2026-10-01T08:40:00+00:00"
+  },
+  {
+    "feature_id": "vec_010",
+    "model_name": "resnet50_vision_v2",
+    "values": [0.4405, 0.1310, -0.6601, 0.3290, 0.2050, -0.1210, 0.0490, 0.7710],
+    "drift_score": 0.24,
+    "timestamp": "2026-10-01T08:45:00+00:00"
+  },
+  {
+    "feature_id": "vec_011",
+    "model_name": "fraud_detector_tabular_v4",
+    "values": [0.0120, 0.0450, -0.0230, 0.0670, -0.0190, 0.0310, 0.0540, -0.0110],
+    "drift_score": 0.03,
+    "timestamp": "2026-10-01T08:50:00+00:00"
+  },
+  {
+    "feature_id": "vec_012",
+    "model_name": "fraud_detector_tabular_v4",
+    "values": [0.9540, -0.9120, 0.8870, -0.9430, 0.9010, -0.8760, 0.9230, -0.8950],
+    "drift_score": 0.96,
+    "timestamp": "2026-10-01T08:55:00+00:00"
+  }
+]
